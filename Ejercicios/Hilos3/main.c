@@ -53,6 +53,7 @@ int main(int argc, char const *argv[]){
     }
     
     printf("Main: programa finalizado\n");
+    printf("Todos los hilos han terminado de hacer sus ejecuciones\n");
 
     //Mostramos los vectores a y b 
     int p,q; 
